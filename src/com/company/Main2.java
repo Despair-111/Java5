@@ -45,7 +45,6 @@ public class Main2 {
         }
         for (int i = 0; i <size ; i++) {
             figure[i].calculateArea();
-
         }
     }
 }
